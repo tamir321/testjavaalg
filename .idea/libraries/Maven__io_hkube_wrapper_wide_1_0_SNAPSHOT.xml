@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.hkube:wrapper:wide:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/hkube/wrapper/1.0-SNAPSHOT/wrapper-1.0-SNAPSHOT-wide.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/hkube/wrapper/1.0-SNAPSHOT/wrapper-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/hkube/wrapper/1.0-SNAPSHOT/wrapper-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

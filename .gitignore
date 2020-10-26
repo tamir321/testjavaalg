@@ -1,0 +1,5 @@
+/encapsulated-algorithm.jar
+/original-encapsulated-algorithm.jar
+
+# Project exclude paths
+/target/
