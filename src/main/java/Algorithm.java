@@ -1,4 +1,4 @@
-
+import com.google.gson.Gson;
 import hkube.algo.wrapper.IAlgorithm;
 import hkube.api.IHKubeAPI;
 import hkube.api.INode;
@@ -18,7 +18,7 @@ public class Algorithm implements IAlgorithm {
 
     @Override
     public Object Start(Map args, IHKubeAPI hkubeAPI) throws Exception {
-
+          Gson gson = new Gson();
 
         Collection<Integer> input = (Collection<Integer>)args.get("input");
 
